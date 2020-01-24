@@ -114,4 +114,4 @@ async def on_message(message):
         await message.channel.send(res)
 
 
-client.run('token')
+client.run('NjI4MDM0NzI3MzcwMjkzMjU5.XZFXHg.zMBORCNN1LhZwgJjuf3BsA1Xdnc')
